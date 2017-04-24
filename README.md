@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AdamsViewTool::Renderer.copyright 'Elise Adams', 'All rights reserved'
+```
 
 ## Development
 
